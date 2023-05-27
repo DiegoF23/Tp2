@@ -1,0 +1,58 @@
+
+.home{
+    background-color: #394867;
+    color: white;
+    height:100%;
+    position:relative;
+    z-index: 1;
+    margin-top: 100px;
+    
+}
+.card{
+    margin-top: 30px;
+    
+    display: flex;
+    width: 700px;
+    height: 250px ;
+    color:black;
+    background-color: #9BA4B5;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    border-radius: 30px;
+    
+    
+}
+.img-card , .imagen{
+    width: 300px;
+    height: 250px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    
+}
+.info{
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    font-size: 17px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.home-info{
+    display: flex;
+
+}
+.tarjetaPerfil {
+    margin-left: 150px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 900px;
+    
+  }
+  .p {
+    color: rgba(255, 255, 255, 0.87);
+    text-align: justify;
+   
+    
+  }

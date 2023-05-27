@@ -1,0 +1,19 @@
+.header{
+    background-color: #F1F6F9;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    position:fixed;
+    top:0;
+    z-index:999;
+}
+.img{
+    width: 75px;
+    height: 75px;
+    border-radius: 100%;
+    margin-top: 15px;
+    margin-left: 15px ;
+}
+.navbar{
+    margin-left: 20px;
+}
